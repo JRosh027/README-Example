@@ -1,17 +1,11 @@
 # Project Title
 
-Simple overview of use/purpose.
+Project: Create a Token
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This Project is to create a simple program 
 
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
