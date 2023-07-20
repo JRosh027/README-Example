@@ -1,25 +1,16 @@
-# Project Title
+# SOL Final Project / 
 
-Simple overview of use/purpose.
+To mint and burn, you need to create a contract that reflects the current supply.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This contract represents the minting and burning capabilities of the Ethereum platform. We have included a conditional declaration to prevent burning out beyond the current token supply.
 
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* After coding, simply click compile on the Remix IDE
+* After compiling, click deploy then the code will run.
 
 ## Help
 
@@ -30,12 +21,6 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+David , John Rosh R.
+3.2 BSIT (NTC)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
